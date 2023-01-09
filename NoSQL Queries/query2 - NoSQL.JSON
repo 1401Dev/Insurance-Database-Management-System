@@ -1,0 +1,4 @@
+db.payment1.aggregate(
+    [{$group:{_id:"$payment_mode", total:{$sum:"$total_amt"}}},
+    {$sort:{total:1}}
+    ]);

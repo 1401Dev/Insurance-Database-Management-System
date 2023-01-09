@@ -1,0 +1,89 @@
+db.payment1.insert({
+    "receipt_no":"Abquodignissimosdistinctioenimdolor",
+    "rcpt_date":1988-08-26,
+    "total_amt":4695,
+    "payment_due":1500,
+    "payment_mode":"Visa",
+    "payment_paid":3195
+});
+
+db.payment1.insert({
+    "receipt_no":"Absequinihildelectusadnihil",
+    "rcpt_date":1994-06-03,
+    "total_amt":9778,
+    "payment_due":3000,
+    "payment_mode":"American Express",
+    "payment_paid":6778
+});
+
+db.payment1.insert({
+    "receipt_no":"Accusamusdoloremqueadetdeleniti",
+    "rcpt_date":1993-05-22,
+    "total_amt":6501,
+    "payment_due":500,
+    "payment_mode":"American Express",
+    "payment_paid":6001
+});
+
+db.payment1.insert({
+    "receipt_no":"Accusantiumfugitvelitetestquiavolu",
+    "rcpt_date":1982-06-18,
+    "total_amt":1454,
+    "payment_due":50,
+    "payment_mode":"MasterCard",
+    "payment_paid":1404
+});
+
+db.payment1.insert({
+    "receipt_no":"Adabutautetutexplicaboplaceat.",
+    "rcpt_date":2016-11-03,
+    "total_amt":7111,
+    "payment_due":600,
+    "payment_mode":"Visa",
+    "payment_paid":6511
+});
+
+db.payment1.insert({
+    "receipt_no":"Adestmaximeveritatisexplicaboquidem",
+    "rcpt_date":1982-07-01,
+    "total_amt":5985,
+    "payment_due":900,
+    "payment_mode":"Discover Card",
+    "payment_paid":5085
+});
+
+db.payment1.insert({
+    "receipt_no":"Adfugitducimusconsecteturvoluptatem",
+    "rcpt_date":2006-01-28,
+    "total_amt":3521,
+    "payment_due":90,
+    "payment_mode":"Visa",
+    "payment_paid":3431
+});
+
+db.payment1.insert({
+    "receipt_no":"Aliquamfugadoloribusrepudiandaemaior",
+    "rcpt_date":1991-09-08,
+    "total_amt":2454,
+    "payment_due":700,
+    "payment_mode":"Discover Card",
+    "payment_paid":1754
+});
+
+db.payment1.insert({
+    "receipt_no":"Aperiamidnemoautanimidebitis",
+    "rcpt_date":1998-09-29,
+    "total_amt":4110,
+    "payment_due":1000,
+    "payment_mode":"Visa",
+    "payment_paid":3110
+});
+
+db.payment1.insert({
+    "receipt_no":"Assumendainventoreexercitationemesta",
+    "rcpt_date":1997-09-09,
+    "total_amt":4829,
+    "payment_due":800,
+    "payment_mode":"Visa",
+    "payment_paid":4029
+});

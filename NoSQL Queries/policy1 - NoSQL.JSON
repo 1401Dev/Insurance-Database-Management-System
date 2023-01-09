@@ -1,0 +1,55 @@
+db.policy1.insert({
+    "policy_no":10000,
+    "p_name":"Life",
+    "sum":1206,
+    "duration":18,
+    "doc":"SSN"
+});
+
+db.policy1.insert({
+    "policy_no":10001,
+    "p_name":"Health",
+    "sum":1476,
+    "duration":15,
+    "doc":"Medical Report"
+});
+
+db.policy1.insert({
+    "policy_no":10002,
+    "p_name":"Property",
+    "sum":1773,
+    "duration":26,
+    "doc":"Lease"
+});
+
+db.policy1.insert({
+    "policy_no":10003,
+    "p_name":"Natural Calamity",
+    "sum":1105,
+    "duration":35,
+    "doc":"Property Lease"
+});
+
+db.policy1.insert({
+    "policy_no":10004,
+    "p_name":"Financial",
+    "sum":1014,
+    "duration":36,
+    "doc":"Bank Statements"
+});
+
+db.policy1.insert({
+    "policy_no":10005,
+    "p_name":"Travel",
+    "sum":1075,
+    "duration":33,
+    "doc":"Passport"
+});
+
+db.policy1.insert({
+    "policy_no":10006,
+    "p_name":"Car",
+    "sum":1513,
+    "duration":11,
+    "doc":"SSN"
+});

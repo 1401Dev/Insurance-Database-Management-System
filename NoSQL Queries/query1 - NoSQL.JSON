@@ -1,0 +1,6 @@
+db.policy1.update(
+    {"policy_no":10004},
+    {$set:
+        {"p_name":"Business"}
+    }
+);
