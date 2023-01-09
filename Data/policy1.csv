@@ -1,0 +1,8 @@
+policy_no,p_name,sum,duration,doc
+10000,Life,1206,18,SSN
+10001,Health,1476,15,Medical Report
+10002,Property,1773,26,Lease
+10003,Natural Calamity,1105,35,Property Lease
+10004,Financial,1014,36,Bank Statements
+10005,Travel,1075,33,Passport
+10006,Car,1513,11,SSN
