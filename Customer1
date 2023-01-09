@@ -1,0 +1,109 @@
+db.customer1.insert({
+    "cus_id":1174,
+    "policy_no":10002,
+    "SSN":632203097,
+    "DOB":1991-06-26,
+    "cus_fname":"Monica",
+    "cus_lname":"Wintheiser",
+    "cus_phno":5143483971,
+    "cus_addr":"2774, Howe Park Apt. 956, Gradyport, OH 33915-1"
+});
+
+db.customer1.insert({
+    "cus_id":1308,
+    "policy_no":10005,
+    "SSN":985101456,
+    "DOB":2003-04-15,
+    "cus_fname":"Carmelo",
+    "cus_lname":"McLaughlin",
+    "cus_phno":9234258692,
+    "cus_addr":"2770, Conroy Park, Funkburgh, SC 80933-9866"
+});
+
+db.customer1.insert({
+    "cus_id":1408,
+    "policy_no":10001,
+    "SSN":907440790,
+    "DOB":2006-09-22,
+    "cus_fname":"Destiney",
+    "cus_lname":"Grant",
+    "cus_phno":3748659288,
+    "cus_addr":"05224, Ortiz Vista Apt. 572, East Brandy, MS 02"
+});
+
+db.customer1.insert({
+    "cus_id":1678,
+    "policy_no":10003,
+    "SSN":788784805,
+    "DOB":1972-05-10,
+    "cus_fname":"Fanny",
+    "cus_lname":"Kunze",
+    "cus_phno":9531183278,
+    "cus_addr":"406, Silas Avenue Apt. 990, Lake Lysanne, VA 51"
+});
+
+db.customer1.insert({
+    "cus_id":1686,
+    "policy_no":10005,
+    "SSN":343385251,
+    "DOB":1994-03-12,
+    "cus_fname":"Harvey",
+    "cus_lname":"Spencer",
+    "cus_phno":8744996132,
+    "cus_addr":"9005, Olson Ranch Apt. 136, North Glen, WA 0195"
+});
+
+db.customer1.insert({
+    "cus_id":1728,
+    "policy_no":10003,
+    "SSN":526588600,
+    "DOB":2009-03-29,
+    "cus_fname":"Ali",
+    "cus_lname":"Bode",
+    "cus_phno":3294895996,
+    "cus_addr":"97672, Zachary Inlet, Townetown, CA 47298"
+});
+
+db.customer1.insert({
+    "cus_id":1810,
+    "policy_no":10005,
+    "SSN":933657457,
+    "DOB":2006-03-14,
+    "cus_fname":"Ignacio",
+    "cus_lname":"Rau",
+    "cus_phno":3993960471,
+    "cus_addr":"37062, Adams Mount, Lake Gabe, MT 08508-4589"
+});
+
+db.customer1.insert({
+    "cus_id":1820,
+    "policy_no":10005,
+    "SSN":584358106,
+    "DOB":1997-01-06,
+    "cus_fname":"Lauretta",
+    "cus_lname":"Vandervort",
+    "cus_phno":6551741986,
+    "cus_addr":"3362, Adams Green Apt. 171, Lake Dessieton, NE"
+});
+
+db.customer1.insert({
+    "cus_id":1905,
+    "policy_no":10003,
+    "SSN":706559754,
+    "DOB":1995-11-26,
+    "cus_fname":"Abagail",
+    "cus_lname":"Prohaska",
+    "cus_phno":6768276355,
+    "cus_addr":"937, Petra Estates Apt. 658, Lake Shannon, VA 9"
+});
+
+db.customer1.insert({
+    "cus_id":2080,
+    "policy_no":10000,
+    "SSN":796892321,
+    "DOB":2013-08-25,
+    "cus_fname":"Bertha",
+    "cus_lname":"Durgan",
+    "cus_phno":1125679899,
+    "cus_addr":"6100, Feil Squares Apt. 333, Rosalindview, OR 7"
+});
